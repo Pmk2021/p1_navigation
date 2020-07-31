@@ -19,3 +19,10 @@ Epsilon: 0.3, minus 0.003 every episode
 
 # Reward Plot
 ![graph](Learning_Curve.png)
+
+# Ideas for future work
+The hyperparameters in the code could be further tuned to improve the speed of the learning, as well as the maximum score. 
+The program could also be run longer as when it was tested, it was stopped as soon as the environment was solved.
+
+Finaly, the agent could possibly benefit from using a Rainbow DQN, as used in this paper: https://arxiv.org/pdf/1710.02298.pdf  
+Since the Rainbow DQN preformed much better on Atari games, it is possible that it can show an improvement in this environment.
