@@ -2,7 +2,7 @@
 project 1 for deep reinforcement learning course on Udacity
 
 ## Environment
-Each state is represented by an array with a lengt of 37. Each array contains the agent's velocity, and the location of objects in view of the agent.
+Each state is represented by an array with a length of 37. Each array contains the agent's velocity, and the location of objects in view of the agent.
 
 There are 4 actions:
 move forward
