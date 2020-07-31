@@ -17,7 +17,11 @@ Epsilon: 0.3, minus 0.003 every episode
 
 &beta;: 0.6, plus 0.003 every episode until equal to 1
 
-# Reward Plot
+# Learning
+
+The agent took ~800 episodes to solve the environment. As shown in the graph below, 
+the reward increased quickly at first, then proceeded to plateau, though it probably could continue to learn
+had it kept running.
 ![graph](Learning_Curve.png)
 
 # Ideas for future work
