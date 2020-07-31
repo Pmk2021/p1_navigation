@@ -18,4 +18,4 @@ Epsilon: 0.3, minus 0.003 every episode
 &beta;: 0.6, plus 0.003 every episode until equal to 1
 
 # Reward Plot
-![graph](learning_curve.png)
+![graph](Learning_Curve.png)
