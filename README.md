@@ -4,10 +4,10 @@ project 1 for deep reinforcement learning course on Udacity
 ## Environment
 Each state is represented by an array with a length of 37. Each array contains the agent's velocity, and the location of objects in view of the agent.
 
-There are 4 actions:
-move forward
-move backwards
-turn left
+There are 4 actions:  
+move forward  
+move backwards  
+turn left  
 turn right
 
 The goal of the agent is to collect yellow banannas, and to avoid blue banannas. The reward for collecting a yellow bananna is +1, and the reward for a blue bananna is -1.
