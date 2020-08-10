@@ -19,10 +19,10 @@ Epsilon: 0.3, minus 0.003 every episode
 
 # Learning
 
-The agent took ~800 episodes to solve the environment. As shown in the graph below, 
-the reward increased quickly at first, then proceeded to plateau, though it probably could continue to learn
-had it kept running.
-![graph](Learning_Curve.png)
+The agent took ~800 on average episodes to solve the environment(Example shown in graph took 741 episodes). As shown in the graph below, 
+the reward increased quickly at first, then proceeded to plateau, though it likely could have continued to improve its score
+had it kept learning
+![graph](learning_curve.png)
 
 # Ideas for future work
 The hyperparameters in the code could be further tuned to improve the speed of the learning, as well as the maximum score. 
