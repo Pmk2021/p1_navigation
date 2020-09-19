@@ -14,6 +14,9 @@ The goal of the agent is to collect yellow banannas, and to avoid blue banannas.
 
 The environment is considered solved, when the agent achieves an average reward of 13 over 100 episodes
 ## Getting Started
+First, start off by cloning the DRLND Repository from this link: https://github.com/udacity/deep-reinforcement-learning#dependencies
+Follow the instructions to install the environment and all the packages needed to run the environment
+
 To start, you need to download the environment by clicking on the link.
 
 Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
@@ -25,6 +28,8 @@ Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Ban
 Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
 
 Then after downloading the repository, unzip the file into the folder, making sure the file name in the second cell of navigation.ipyb matches the download
+
+All the necessary packages are located in the requirements.txt file of this repository
 
 ## Instructions
 Open Navigation.ipyb
