@@ -29,7 +29,7 @@ Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Ban
 
 Then after downloading the repository, unzip the file into the folder, making sure the file name in the second cell of navigation.ipyb matches the download
 
-All the necessary packages are located in the requirements.txt file of this repository
+All the necessary packages except for the unity agents package are located in the requirements.txt file of this repository. The unity agents package must be installed by following the DRLND Repository installation directions
 
 ## Instructions
 Open Navigation.ipyb
